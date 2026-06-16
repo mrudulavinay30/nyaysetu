@@ -16,7 +16,7 @@ Predicts the likelihood of favorable legal outcomes based on:
   * Complexity of the Case
   Helps users gain data-driven legal insights.
 
-5. Lawyers Near Me
+3. Lawyers Near Me
 *Built a location-based lawyer discovery feature.
 *Retrieves and processes lawyer listings and profiles.
 *Enables users to search lawyers based on:
@@ -25,7 +25,7 @@ Predicts the likelihood of favorable legal outcomes based on:
   - Legal requirements
  *Helps users connect with relevant legal professionals nearby.
 
-3. PDF Legal Document Analyzer
+4. PDF Legal Document Analyzer
 Upload legal PDF documents for:
 
   * Information extraction
@@ -35,7 +35,7 @@ Upload legal PDF documents for:
   Includes a judge model for response validation.
   Deployed locally using Ollama and exposed through ngrok.
 
-4. Similar Cases Retrieval
+5. Similar Cases Retrieval
 * AI-powered legal case recommendation system.
 * Refines user queries using LLMs.
 * Retrieves legal judgments through the **Indian Kanoon API**.
