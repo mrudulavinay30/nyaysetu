@@ -16,6 +16,15 @@ Predicts the likelihood of favorable legal outcomes based on:
   * Complexity of the Case
   Helps users gain data-driven legal insights.
 
+5. Lawyers Near Me
+*Built a location-based lawyer discovery feature.
+*Retrieves and processes lawyer listings and profiles.
+*Enables users to search lawyers based on:
+  - Location
+  - Specialization
+  - Legal requirements
+ *Helps users connect with relevant legal professionals nearby.
+
 3. PDF Legal Document Analyzer
 Upload legal PDF documents for:
 
